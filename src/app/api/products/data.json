@@ -7,7 +7,7 @@
       "price": 139,
       "image": "/pngfind.com-camisetas-png-5353213.png",
       "description": "Camiseta fabricada com 88% de algodão e 12% de poliéster",
-      "featured": false
+      "featured": true
     },
     {
       "id": 2,
@@ -25,7 +25,7 @@
       "price": 179,
       "image": "/pngfind.com-miami-heat-logo-png-1661025.png",
       "description": "Camiseta fabricada com 88% de algodão e 12% de poliéster",
-      "featured": true
+      "featured": false
     },
     {
       "id": 4,
