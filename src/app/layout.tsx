@@ -8,7 +8,10 @@ const inter = Inter({
 });
 
 export const metadata: Metadata = {
-  title: "dev store",
+  title: {
+    template: "%s | devstore",
+    default: "devstore",
+  },
   description: "Sua loja de roupas esportivas!",
 };
 
