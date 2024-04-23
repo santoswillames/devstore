@@ -3,6 +3,7 @@ import { z } from "zod";
 // Schema de como deve ser a variável
 const envSchema = z.object({
   NEXT_PUBLIC_API_BASE_URL: z.string().url(),
+  APP_URL: z.string().url(),
 });
 
 // Fazendo o parse para validar
